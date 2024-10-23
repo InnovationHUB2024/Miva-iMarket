@@ -1,15 +1,27 @@
-# website-freelance-marketplace
-A simple project of a website of freelance marketplace using HTML, CSS, bootstrap, php and Mysql.
+Project Title:
+iMarket Place: Freelance Marketplace Website
 
+Overview:
+This project involves building a simple freelance marketplace website using HTML, CSS, Bootstrap, PHP, and MySQL. The website enables users to offer and find freelance services within a digital marketplace.
 
-Tutorial to use this as project.
-Follow the below steps:
- 1. Download and Install Xampp server. Link: https://www.apachefriends.org/download.html
- 2. In phpMyAdmin select import and choose fmarket.sql
- 3. copy the freelance folder and paste it in the htdocs folder.
- 4. Type localhost/freelance/index.php or just localhost/freelance in your browser to see the website
- 
-You need some basic knowledge of Xampp and mysql to run this properly.
-If you need any help or have any suggestion, feel free to write an email or send me a message.
- email: rahamatelahi2@gmail.com
- facebook: https://www.facebook.com/rrrupom
+Steps to Set Up the Project:
+Download and Install XAMPP:
+
+XAMPP is required to run this project. Download it from the official website: Download XAMPP.
+Set Up the Database:
+
+Open phpMyAdmin from XAMPP and select the Import option.
+Import the provided fmarket.sql file to set up the necessary database tables.
+Deploy the Website Files:
+
+Copy the entire freelance folder from the project and paste it into the htdocs folder within your XAMPP directory.
+Run the Website:
+
+In your browser, go to localhost/freelance/index.php or simply localhost/freelance to view and interact with the website.
+Requirements:
+Basic knowledge of XAMPP and MySQL is needed to properly run and interact with this project.
+Need Help?
+If you need any assistance or have suggestions for improving the project, feel free to reach out:
+
+Email: chukwudumebi.omenife@miva.edu.ng
+Contact: Facebook
